@@ -2,8 +2,9 @@
 
 By taking in input data from a variety of online grading platfroms commonly used by schools Grade Utility preforms calculations to determine potentional paths to a desired grade.
 
-Prerequisite:
-
+##Prerequisite:
 pandas
 
+```
 pip3 install pandas
+```
